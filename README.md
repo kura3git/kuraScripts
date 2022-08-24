@@ -5,3 +5,5 @@
 - Practice using various Python data types (lists, dictionaries, etc)
 - Practice accepting user input
 - Manipulating user input to for dynamic functionality
+
+![Alt text](./d2r_sceengrab.png?raw=true "Second Date loading..")
