@@ -6,4 +6,4 @@
 - Practice accepting user input
 - Manipulating user input to for dynamic functionality
 
-![](images/d2r_screengrab.pbng)
+![](images/d2r_screengrab.png)
