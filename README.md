@@ -7,3 +7,8 @@
 - Manipulating user input to for dynamic functionality
 
 ![](images/d2r_screengrab.png)
+
+
+## AWS EC2 + Jenkins 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+- Bash script to automate Jenkins installation on EC2 instance at launch
